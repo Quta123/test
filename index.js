@@ -769,6 +769,6 @@ client.on('guildDelete', guild => {
 👥 **Member Count**: ${guild.memberCount}**`)
 });
 
-
+gssjejdhsjsjsn
 ;
 ////////Coded By ANO
